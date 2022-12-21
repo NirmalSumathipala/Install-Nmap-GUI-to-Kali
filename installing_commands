@@ -1,0 +1,8 @@
+ Commands:
+➥ $ sudo apt update
+➥ $ sudo apt install kaboxer -y
+➥ $ sudo apt install zenmap-kbx
+➥ $ kaboxer run zenmap
+
+
+*Type above commands in your terminal.Enjoy it!!!
