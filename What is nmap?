@@ -1,0 +1,16 @@
+Nmap (Network Mapper) is a free and open-source network scanner tool that is widely used for network discovery, security auditing, and network inventory. It was developed by Gordon Lyon (also known as Fyodor Vaskovich).
+
+Nmap allows you to scan networks to determine which devices are connected and what services (and their versions) those devices are offering. It can also be used to detect any open ports on a network, as well as the operating system and type of hardware used by a device.
+
+Nmap has a command-line interface and can be run on various operating systems, including Linux, Windows, and macOS. It also has a graphical user interface called Zenmap that is available for Windows, Linux, and macOS.
+
+Nmap can be used for a variety of purposes, including:
+
+    Network mapping: Discovering all the devices connected to a network and creating a map of the network layout
+    Security auditing: Identifying vulnerabilities and security risks on a network
+    Inventory management: Keeping track of the hardware and software on a network
+    Troubleshooting: Identifying network issues and identifying the cause of the problems
+
+Overall, Nmap is a powerful and versatile tool that is essential for any network administrator or security professional.
+
+Now I am going to show you how to install the Zenmap for Kali distro with Kabox.
